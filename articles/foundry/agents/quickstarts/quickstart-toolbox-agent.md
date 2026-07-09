@@ -14,6 +14,8 @@ zone_pivot_groups: selection-toolbox-quickstart
 # customer intent: As a developer, I want to build a toolbox that combines several tools behind one endpoint so that my hosted agent can discover and call them all through a single connection.
 ---
 
+# Quickstart: Build a toolbox and use it with a hosted agent
+
 [!INCLUDE [feature-preview](../../includes/feature-preview.md)]
 
 In this quickstart, you build a [toolbox](../how-to/tools/toolbox.md) that combines two tools behind one managed endpoint:

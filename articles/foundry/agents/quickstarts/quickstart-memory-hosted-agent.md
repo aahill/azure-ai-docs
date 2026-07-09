@@ -10,7 +10,7 @@ ms.service: microsoft-foundry
 ms.subservice: foundry-agent-service
 ms.custom: mode-other, dev-focus, doc-kit-assisted
 ai-usage: ai-assisted
-zone_pivot_groups: hosted-agent-quickstart-method
+zone_pivot_groups: memory-hosted-agent-quickstart-method
 # customer intent: As a developer, I want to add a persistent memory store to my hosted agent so that it remembers facts a user shared in earlier sessions.
 ---
 
